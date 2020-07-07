@@ -313,6 +313,5 @@ class CofeeMachine:
             elif action == "exit":
                 break
 
-
 coffee_machine = CofeeMachine(400, 540, 120, 9, 550)
 coffee_machine.start_machine()
